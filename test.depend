@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1739247349 source:c:\ado\test\main.cpp
+	<iostream>
+	<SDL.h>
+
+1744690909 source:d:\ado\test\main.cpp
+	"khaibao.h"
+
+1744691223 d:\ado\test\khaibao.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<string>
+
+1744261577 source:d:\ado\test\animation.cpp
+	"khaibao.h"
+
+1744260183 source:d:\ado\test\ball.cpp
+	"khaibao.h"
+
+1744691311 source:d:\ado\test\check.cpp
+	"khaibao.h"
+
+1744690909 source:d:\ado\test\cactus.cpp
+	"khaibao.h"
+
+1744691311 source:d:\ado\test\amthanh.cpp
+	"khaibao.h"
+
+1744654751 source:d:\ado\test\event.cpp
+	"khaibao.h"
+
+1744689770 source:d:\ado\test\dohoa.cpp
+	"khaibao.h"
+
+1744689906 source:d:\ado\test\reset.cpp
+	"khaibao.h"
+
